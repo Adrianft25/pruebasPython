@@ -4,7 +4,7 @@ Ejercicios simples y pruebas con Python
 
 ## Contenido
 
-### Básico
+## Básico
     - classes.py                -> ejemplos de clases.
     - excepciones.py            -> ejemplos de excepciones.
     - funciones.py              -> prueba de funciones para el ejemplo de los módulos.
@@ -14,7 +14,7 @@ Ejercicios simples y pruebas con Python
     - modulos.py                -> ejemplo de módulos.
     - piedraPapelTijeras.py     -> el juego de Piedra, Papel o Tijeras.
 
-### Intermedio
+## Intermedio
     - anagrama.py               -> reto de comprobar si dos palabras forman un anagrama.
     - dates.py                  -> pruebas con datetimes, timestamp y time.
     - fizzbuzz.py               -> reto de comprobar los múltiplos de los números y cambiarlos por palabras.
